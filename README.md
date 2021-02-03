@@ -1,0 +1,3 @@
+# Crud
+crud avec python
+Pour lancer cet projet, il faut installer python, pip et django...
